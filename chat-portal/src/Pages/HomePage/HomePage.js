@@ -16,7 +16,6 @@ function HomePage() {
           </div>
          <div className={style.right}>
           <div className={style.cht_head}>ChatSocket - Chat with friends and meet them online</div>
-          <div className={style.cht_sub}>This is chat-application where people can chat with each other via online without any interupptions.This is a way to communicate with people they can share their feelings,talks and much more.</div>
          </div>
         </div>
         </>

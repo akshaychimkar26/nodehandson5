@@ -1,5 +1,5 @@
 .mainCtn{
-    background-color:darkslateblue ;
+    background-color:blue ;
    
     display: flex;
     flex-direction: row;
@@ -45,11 +45,6 @@
   border: 2px solid lightblue;
   border-radius: 7px;
   font-weight: 600;
-}
-
-.enter:hover{
-    background-color:transparent;
-    color: red;
 }
 
 .form{
