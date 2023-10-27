@@ -21,7 +21,7 @@ function ChatRoom() {
   };
 
   useEffect(() => {
-    const socket = socketClient('https://chat-app-45f4.onrender.com');
+    const socket = socketClient('https://chat-app-yhch.onrender.com.onrender.com');
     setSocket(socket);
     return () => {
       if (socket) {
